@@ -36,3 +36,6 @@
 - Adicione, edite ou exclua tarefas usando a interface da aplicação.
 - Contribuições
 - Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou um pull request.
+
+ ## Comentários nos códigos:
+  - Uma das exigencias do desafio (Código: Estrutura do código, boas práticas de organização e clareza nos comentários.)
